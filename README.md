@@ -8,7 +8,9 @@ The game would be a dungeon crawler! This would add to the mystery behind the ga
 
 Gameplay & Code 
 The game starts you off with a title screen of the game’s title. Next, is a control screen which shows you how to maneuver on the game. Once you get the controls, you can start the game. You will go from one end of the platform to the other, and you must defeat at least one enemy demon dog before you reach the portal. When you reach that portal, leap through to access the pixel world. Once in the pixel world, make you way up and defeat the blob enemies. If unable to defeat them, you will still be able to access the portal at the top right of this level. After you access the portal, you will be sent to the third and final level. In this level, the demonic dogs will return. Defeat them to make it to the Bon-fire. Completion of this course will open a final screen. This final screen will display the creator information on the development of the game. 
+
 ¬Hero
+
 Alarm_0 -  
 hit = false;
 
